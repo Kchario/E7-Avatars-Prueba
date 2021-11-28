@@ -1,0 +1,13 @@
+
+npc1081.png
+size: 732,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 728, 1018
+  orig: 728, 1018
+  offset: 0, 0
+  index: -1

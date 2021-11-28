@@ -1,0 +1,13 @@
+
+m9193.png
+size: 749,1345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 745, 1341
+  orig: 745, 1341
+  offset: 0, 0
+  index: -1

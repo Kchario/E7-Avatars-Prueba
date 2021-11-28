@@ -1,0 +1,55 @@
+
+npc1168.png
+size: 1652,1242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1548, 733
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 1238, 1544
+  orig: 1238, 1544
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1548, 1150
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1548, 1041
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1548, 938
+  size: 101, 89
+  orig: 101, 89
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1548, 635
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1548, 833
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1

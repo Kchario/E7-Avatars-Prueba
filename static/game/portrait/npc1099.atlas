@@ -1,0 +1,48 @@
+
+npc1099.png
+size: 1467,585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1171, 419
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 581, 1167
+  orig: 581, 1167
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1171, 253
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1171, 105
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1319, 419
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1319, 253
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1

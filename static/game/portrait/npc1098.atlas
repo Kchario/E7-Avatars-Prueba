@@ -1,0 +1,48 @@
+
+npc1098.png
+size: 1332,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1076, 287
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 421, 1072
+  orig: 421, 1072
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1076, 149
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1204, 287
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1076, 11
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1204, 149
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1

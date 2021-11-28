@@ -1,0 +1,41 @@
+
+d3006.png
+size: 692,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: true
+  xy: 537, 32
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 209, 7
+  size: 201, 303
+  orig: 201, 303
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 2, 2
+  size: 205, 308
+  orig: 205, 308
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 412, 13
+  size: 297, 123
+  orig: 297, 123
+  offset: 0, 0
+  index: -1
+s5
+  rotate: true
+  xy: 537, 73
+  size: 237, 153
+  orig: 237, 153
+  offset: 0, 0
+  index: -1

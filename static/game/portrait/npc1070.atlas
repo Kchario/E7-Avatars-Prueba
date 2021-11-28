@@ -1,0 +1,48 @@
+
+npc1070.png
+size: 1139,849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1050, 745
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 2, 2
+  size: 845, 1046
+  orig: 845, 1046
+  offset: 0, 0
+  index: -1
+panic
+  rotate: true
+  xy: 1050, 641
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1050, 537
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1050, 433
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+special
+  rotate: true
+  xy: 1050, 329
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1

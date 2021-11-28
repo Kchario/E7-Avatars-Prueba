@@ -1,0 +1,69 @@
+
+npc1157.png
+size: 1478,851
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 2, 2
+  size: 847, 1195
+  orig: 847, 1195
+  offset: 0, 0
+  index: -1
+angry/angry
+  rotate: true
+  xy: 1337, 150
+  size: 172, 136
+  orig: 172, 136
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1199, 499
+  size: 174, 140
+  orig: 174, 140
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1199, 324
+  size: 173, 139
+  orig: 173, 139
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1199, 8
+  size: 172, 138
+  orig: 172, 138
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1199, 148
+  size: 174, 136
+  orig: 174, 136
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1341, 501
+  size: 172, 132
+  orig: 172, 132
+  offset: 0, 0
+  index: -1
+special2/special2
+  rotate: true
+  xy: 1340, 325
+  size: 172, 136
+  orig: 172, 136
+  offset: 0, 0
+  index: -1
+special3/special3
+  rotate: true
+  xy: 1199, 675
+  size: 174, 142
+  orig: 174, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+npc1127.png
+size: 1439,863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 859, 1355
+  orig: 859, 1355
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1359, 776
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1359, 603
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: false
+  xy: 1359, 689
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1

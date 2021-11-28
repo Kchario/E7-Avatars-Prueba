@@ -1,0 +1,90 @@
+
+npc1063.png
+size: 532,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: true
+  xy: 264, 13
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 416, 380
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 506, 492
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+bird3
+  rotate: false
+  xy: 411, 329
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+bird4
+  rotate: false
+  xy: 416, 429
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+bird5
+  rotate: false
+  xy: 2, 56
+  size: 233, 179
+  orig: 233, 179
+  offset: 0, 0
+  index: -1
+bird6
+  rotate: false
+  xy: 2, 382
+  size: 412, 142
+  orig: 412, 142
+  offset: 0, 0
+  index: -1
+bird66
+  rotate: true
+  xy: 237, 82
+  size: 74, 293
+  orig: 74, 293
+  offset: 0, 0
+  index: -1
+bird666
+  rotate: false
+  xy: 2, 2
+  size: 260, 52
+  orig: 260, 52
+  offset: 0, 0
+  index: -1
+bird7
+  rotate: false
+  xy: 2, 237
+  size: 407, 143
+  orig: 407, 143
+  offset: 0, 0
+  index: -1
+bird77
+  rotate: false
+  xy: 237, 158
+  size: 277, 77
+  orig: 277, 77
+  offset: 0, 0
+  index: -1
+bird777
+  rotate: false
+  xy: 264, 28
+  size: 260, 52
+  orig: 260, 52
+  offset: 0, 0
+  index: -1

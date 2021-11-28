@@ -1,0 +1,55 @@
+
+npc1172.png
+size: 1151,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: false
+  xy: 911, 300
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 426, 907
+  orig: 426, 907
+  offset: 0, 0
+  index: -1
+normal/face_nm
+  rotate: false
+  xy: 911, 170
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: false
+  xy: 1031, 300
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: false
+  xy: 911, 40
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: false
+  xy: 1031, 170
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 1031, 40
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1

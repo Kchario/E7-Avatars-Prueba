@@ -1,0 +1,13 @@
+
+m9202.png
+size: 1204,1126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1122
+  orig: 1200, 1122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+m9181.png
+size: 557,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 553, 1061
+  orig: 553, 1061
+  offset: 0, 0
+  index: -1

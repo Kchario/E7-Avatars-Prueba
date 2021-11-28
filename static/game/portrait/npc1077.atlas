@@ -1,0 +1,13 @@
+
+npc1077.png
+size: 850,1293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 846, 1289
+  orig: 846, 1289
+  offset: 0, 0
+  index: -1

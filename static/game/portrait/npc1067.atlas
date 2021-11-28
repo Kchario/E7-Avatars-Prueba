@@ -1,0 +1,62 @@
+
+npc1067.png
+size: 1306,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1206, 416
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 652, 1202
+  orig: 652, 1202
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 1206, 597
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1206, 333
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1206, 251
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1206, 168
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1206, 88
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: false
+  xy: 1206, 503
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1

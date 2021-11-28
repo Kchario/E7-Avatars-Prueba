@@ -1,0 +1,41 @@
+
+npc1187.png
+size: 1750,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1646, 684
+  size: 101, 134
+  orig: 101, 134
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 952, 1642
+  orig: 952, 1642
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1646, 448
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1646, 548
+  size: 101, 134
+  orig: 101, 134
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1646, 820
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1

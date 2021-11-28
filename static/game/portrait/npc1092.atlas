@@ -1,0 +1,55 @@
+
+npc1092.png
+size: 1383,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 996, 398
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 596, 992
+  orig: 596, 992
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 996, 196
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 996, 11
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1181, 398
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1181, 213
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: false
+  xy: 1198, 11
+  size: 183, 200
+  orig: 183, 200
+  offset: 0, 0
+  index: -1

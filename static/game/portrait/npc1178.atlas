@@ -1,0 +1,13 @@
+
+npc1178.png
+size: 276,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/base
+  rotate: false
+  xy: 2, 2
+  size: 272, 414
+  orig: 272, 414
+  offset: 0, 0
+  index: -1

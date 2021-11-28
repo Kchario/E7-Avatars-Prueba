@@ -1,0 +1,55 @@
+
+npc1174.png
+size: 1332,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1160, 229
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 447, 1156
+  orig: 447, 1156
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1160, 111
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1160, 347
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1248, 113
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1160, 8
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1251, 222
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1

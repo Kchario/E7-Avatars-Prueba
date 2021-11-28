@@ -1,0 +1,13 @@
+
+npc1076.png
+size: 698,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 694, 1000
+  orig: 694, 1000
+  offset: 0, 0
+  index: -1

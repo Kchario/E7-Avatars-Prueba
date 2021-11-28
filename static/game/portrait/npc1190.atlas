@@ -1,0 +1,13 @@
+
+npc1190.png
+size: 543,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/123
+  rotate: false
+  xy: 2, 2
+  size: 539, 1148
+  orig: 539, 1148
+  offset: 0, 0
+  index: -1

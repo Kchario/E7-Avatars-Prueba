@@ -1,0 +1,13 @@
+
+npc1135.png
+size: 849,1166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 845, 1162
+  orig: 845, 1162
+  offset: 0, 0
+  index: -1

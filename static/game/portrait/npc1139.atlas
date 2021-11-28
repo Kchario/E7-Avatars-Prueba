@@ -1,0 +1,27 @@
+
+npc1139.png
+size: 611,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal
+  rotate: true
+  xy: 2, 2
+  size: 365, 482
+  orig: 365, 482
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 486, 249
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 486, 129
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1

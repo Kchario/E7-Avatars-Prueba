@@ -1,0 +1,34 @@
+
+npc1091.png
+size: 1261,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1083, 240
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 421, 883
+  orig: 421, 883
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 887, 240
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 887, 55
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1

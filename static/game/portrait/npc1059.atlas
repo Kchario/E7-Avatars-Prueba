@@ -1,0 +1,433 @@
+
+npc1059.png
+size: 1841,1540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_r
+  rotate: true
+  xy: 1044, 76
+  size: 107, 270
+  orig: 107, 270
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1457, 999
+  size: 255, 539
+  orig: 255, 539
+  offset: 0, 0
+  index: -1
+body_ef
+  rotate: false
+  xy: 1655, 68
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+caoe_03
+  rotate: true
+  xy: 769, 531
+  size: 195, 986
+  orig: 195, 986
+  offset: 0, 0
+  index: -1
+cape_01
+  rotate: false
+  xy: 2, 11
+  size: 126, 731
+  orig: 126, 731
+  offset: 0, 0
+  index: -1
+cape_02
+  rotate: true
+  xy: 769, 34
+  size: 149, 273
+  orig: 149, 273
+  offset: 0, 0
+  index: -1
+cape_04
+  rotate: true
+  xy: 240, 15
+  size: 31, 193
+  orig: 31, 193
+  offset: 0, 0
+  index: -1
+cape_05
+  rotate: true
+  xy: 1044, 28
+  size: 46, 201
+  orig: 46, 201
+  offset: 0, 0
+  index: -1
+cape_06
+  rotate: true
+  xy: 1316, 68
+  size: 115, 209
+  orig: 115, 209
+  offset: 0, 0
+  index: -1
+cape_07
+  rotate: true
+  xy: 1745, 28
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+cape_08
+  rotate: true
+  xy: 547, 728
+  size: 381, 878
+  orig: 381, 878
+  offset: 0, 0
+  index: -1
+cape_09
+  rotate: true
+  xy: 547, 1111
+  size: 427, 908
+  orig: 427, 908
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 130, 48
+  size: 637, 678
+  orig: 637, 678
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: true
+  xy: 1427, 831
+  size: 166, 281
+  orig: 166, 281
+  offset: 0, 0
+  index: -1
+ef3
+  rotate: false
+  xy: 2, 744
+  size: 543, 794
+  orig: 543, 794
+  offset: 0, 0
+  index: -1
+ef3_1
+  rotate: true
+  xy: 1527, 74
+  size: 103, 126
+  orig: 103, 126
+  offset: 0, 0
+  index: -1
+ef3_2
+  rotate: false
+  xy: 1567, 179
+  size: 70, 200
+  orig: 70, 200
+  offset: 0, 0
+  index: -1
+ef3_3
+  rotate: true
+  xy: 512, 6
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+ef3_4
+  rotate: false
+  xy: 1757, 544
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+ef_f_1
+  rotate: false
+  xy: 1762, 411
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+ef_f_2
+  rotate: true
+  xy: 1427, 1078
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+eye_ef_1
+  rotate: false
+  xy: 1745, 52
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+eye_ef_2
+  rotate: false
+  xy: 1540, 2
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+f_ef1
+  rotate: true
+  xy: 1687, 8
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+f_ef1_1
+  rotate: true
+  xy: 1623, 34
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+f_ef4_2
+  rotate: false
+  xy: 797, 7
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+f_ef4_3
+  rotate: true
+  xy: 435, 6
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+f_ef4_4
+  rotate: true
+  xy: 577, 2
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+face_ef
+  rotate: false
+  xy: 1714, 926
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+face_ef2
+  rotate: false
+  xy: 1762, 471
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+fire_01
+  rotate: false
+  xy: 1714, 1044
+  size: 110, 215
+  orig: 110, 215
+  offset: 0, 0
+  index: -1
+fire_02
+  rotate: false
+  xy: 1748, 216
+  size: 56, 183
+  orig: 56, 183
+  offset: 0, 0
+  index: -1
+fire_04
+  rotate: true
+  xy: 1396, 11
+  size: 55, 142
+  orig: 55, 142
+  offset: 0, 0
+  index: -1
+hand_ef
+  rotate: false
+  xy: 1633, 401
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 1427, 730
+  size: 99, 211
+  orig: 99, 211
+  offset: 0, 0
+  index: -1
+hand_l_fg
+  rotate: true
+  xy: 1812, 451
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 1640, 729
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1639, 225
+  size: 107, 174
+  orig: 107, 174
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 769, 381
+  size: 148, 862
+  orig: 148, 862
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 769, 185
+  size: 194, 796
+  orig: 194, 796
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 1714, 1261
+  size: 125, 277
+  orig: 125, 277
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 1809, 522
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 1742, 70
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: true
+  xy: 1710, 875
+  size: 49, 121
+  orig: 49, 121
+  offset: 0, 0
+  index: -1
+mask_ef
+  rotate: true
+  xy: 1757, 637
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+neck_ef
+  rotate: true
+  xy: 760, 7
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+r_fg_01
+  rotate: false
+  xy: 1427, 1014
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+r_fg_02
+  rotate: true
+  xy: 609, 10
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+r_fg_03
+  rotate: true
+  xy: 1769, 833
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+r_fg_04
+  rotate: true
+  xy: 1616, 2
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+stone_01
+  rotate: true
+  xy: 1247, 2
+  size: 64, 147
+  orig: 64, 147
+  offset: 0, 0
+  index: -1
+stone_02
+  rotate: false
+  xy: 1802, 560
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+stone_03
+  rotate: true
+  xy: 1710, 831
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+stone_04
+  rotate: true
+  xy: 1745, 2
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+stone_05
+  rotate: false
+  xy: 733, 8
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+stone_06
+  rotate: true
+  xy: 674, 8
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+stone_07
+  rotate: true
+  xy: 130, 2
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+stone_08
+  rotate: true
+  xy: 1540, 34
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+stone_09
+  rotate: true
+  xy: 1809, 493
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+stone_10
+  rotate: true
+  xy: 240, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+stone_ef
+  rotate: true
+  xy: 1812, 429
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

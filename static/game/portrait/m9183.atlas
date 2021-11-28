@@ -1,0 +1,13 @@
+
+m9183.png
+size: 649,1108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 645, 1104
+  orig: 645, 1104
+  offset: 0, 0
+  index: -1

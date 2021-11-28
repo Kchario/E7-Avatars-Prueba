@@ -1,0 +1,13 @@
+
+npc1079.png
+size: 434,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 430, 1048
+  orig: 430, 1048
+  offset: 0, 0
+  index: -1

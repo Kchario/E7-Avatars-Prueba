@@ -1,0 +1,55 @@
+
+npc1073.png
+size: 1278,711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1167, 390
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 707, 1163
+  orig: 707, 1163
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1167, 215
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1167, 568
+  size: 109, 141
+  orig: 109, 141
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1167, 302
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1167, 479
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: false
+  xy: 1167, 130
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1

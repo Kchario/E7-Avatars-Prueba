@@ -1,0 +1,27 @@
+
+npc1057.png
+size: 1174,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 345, 1099
+  orig: 345, 1099
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1103, 253
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1103, 281
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1

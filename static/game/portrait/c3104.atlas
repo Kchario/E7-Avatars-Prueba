@@ -1,0 +1,97 @@
+
+c3104.png
+size: 2033,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 530, 10
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 106, 7
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1924, 360
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+45
+  rotate: true
+  xy: 2001, 110
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+55
+  rotate: true
+  xy: 1245, 57
+  size: 428, 677
+  orig: 428, 677
+  offset: 0, 0
+  index: -1
+angry/angry
+  rotate: true
+  xy: 1924, 151
+  size: 103, 78
+  orig: 103, 78
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 77
+  size: 408, 1241
+  orig: 408, 1241
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 2, 2
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1924, 256
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 217, 5
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 426, 9
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1924, 46
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+special2/special2
+  rotate: false
+  xy: 322, 8
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+npc1182.png
+size: 557,1126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/123
+  rotate: false
+  xy: 2, 2
+  size: 553, 1122
+  orig: 553, 1122
+  offset: 0, 0
+  index: -1

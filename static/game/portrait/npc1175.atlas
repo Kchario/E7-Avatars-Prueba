@@ -1,0 +1,48 @@
+
+npc1175.png
+size: 1191,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: false
+  xy: 825, 138
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 2, 2
+  size: 257, 821
+  orig: 257, 821
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: false
+  xy: 825, 15
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: false
+  xy: 947, 138
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: false
+  xy: 947, 15
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 1069, 138
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1

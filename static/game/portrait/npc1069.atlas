@@ -1,0 +1,69 @@
+
+npc1069.png
+size: 1294,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1198, 393
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 839, 1194
+  orig: 839, 1194
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1198, 15
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1198, 604
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1198, 181
+  size: 104, 75
+  orig: 104, 75
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1198, 498
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1198, 76
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1198, 287
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1198, 712
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1

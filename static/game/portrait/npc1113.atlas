@@ -1,0 +1,48 @@
+
+npc1113.png
+size: 1270,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1088, 226
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 4
+  size: 346, 1084
+  orig: 346, 1084
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1182, 227
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1088, 91
+  size: 133, 87
+  orig: 133, 87
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1177, 98
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1088, 2
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1

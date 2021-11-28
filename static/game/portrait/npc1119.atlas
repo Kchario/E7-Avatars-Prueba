@@ -1,0 +1,48 @@
+
+npc1119.png
+size: 1147,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 433, 964
+  orig: 433, 964
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 968, 157
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 968, 341
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 1055, 61
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 968, 248
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 968, 54
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1

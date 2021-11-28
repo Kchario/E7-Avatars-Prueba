@@ -1,0 +1,55 @@
+
+npc1149.png
+size: 1344,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1237, 777
+  size: 128, 105
+  orig: 128, 105
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 903, 1233
+  orig: 903, 1233
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1237, 232
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1237, 635
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1237, 326
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1237, 511
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1237, 416
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1

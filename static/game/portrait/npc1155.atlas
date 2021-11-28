@@ -1,0 +1,55 @@
+
+npc1155.png
+size: 1277,854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: true
+  xy: 1201, 756
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 850, 1197
+  orig: 850, 1197
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1201, 563
+  size: 94, 73
+  orig: 94, 73
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: true
+  xy: 1201, 659
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1201, 466
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1201, 280
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1201, 370
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+c1084.png
+size: 1680,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: false
+  xy: 1588, 357
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 672, 1584
+  orig: 672, 1584
+  offset: 0, 0
+  index: -1
+normal/face_nm
+  rotate: false
+  xy: 1588, 461
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: false
+  xy: 1588, 568
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1

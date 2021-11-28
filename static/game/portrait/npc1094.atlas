@@ -1,0 +1,55 @@
+
+npc1094.png
+size: 1324,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 996, 434
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 592, 992
+  orig: 592, 992
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 996, 272
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1160, 434
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: false
+  xy: 996, 110
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1160, 272
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: false
+  xy: 1160, 110
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1

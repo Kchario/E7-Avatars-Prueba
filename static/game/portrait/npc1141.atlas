@@ -1,0 +1,20 @@
+
+npc1141.png
+size: 899,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 501, 778
+  orig: 501, 778
+  offset: 0, 0
+  index: -1
+special
+  rotate: false
+  xy: 782, 374
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+npc1143.png
+size: 685,1116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 681, 1112
+  orig: 681, 1112
+  offset: 0, 0
+  index: -1

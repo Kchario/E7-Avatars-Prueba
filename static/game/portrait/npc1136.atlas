@@ -1,0 +1,48 @@
+
+npc1136.png
+size: 1060,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: true
+  xy: 945, 396
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 13
+  size: 474, 941
+  orig: 474, 941
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: true
+  xy: 945, 303
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: true
+  xy: 945, 210
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: true
+  xy: 945, 117
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 945, 2
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1

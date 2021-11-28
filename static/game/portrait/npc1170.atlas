@@ -1,0 +1,69 @@
+
+npc1170.png
+size: 1447,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1277, 318
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+base1
+  rotate: true
+  xy: 2, 2
+  size: 773, 1273
+  orig: 773, 1273
+  offset: 0, 0
+  index: -1
+base12
+  rotate: true
+  xy: 1277, 577
+  size: 198, 168
+  orig: 198, 168
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: true
+  xy: 1277, 231
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1277, 395
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1277, 147
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 1373, 487
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+special/special
+  rotate: true
+  xy: 1277, 64
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+special2/special2
+  rotate: false
+  xy: 1277, 475
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+npc1142.png
+size: 932,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 10
+  size: 420, 718
+  orig: 420, 718
+  offset: 0, 0
+  index: -1
+hhh
+  rotate: true
+  xy: 722, 211
+  size: 219, 194
+  orig: 219, 194
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 722, 111
+  size: 109, 98
+  orig: 109, 98
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 722, 2
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: true
+  xy: 833, 99
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1

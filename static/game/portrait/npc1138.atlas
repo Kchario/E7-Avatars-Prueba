@@ -1,0 +1,55 @@
+
+npc1138.png
+size: 1033,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15
+  rotate: true
+  xy: 2, 2
+  size: 511, 835
+  orig: 511, 835
+  offset: 0, 0
+  index: -1
+angry/face_ag
+  rotate: false
+  xy: 839, 417
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: false
+  xy: 839, 319
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: false
+  xy: 936, 417
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: false
+  xy: 839, 221
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 936, 319
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+special2/face_sp2
+  rotate: false
+  xy: 839, 123
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1

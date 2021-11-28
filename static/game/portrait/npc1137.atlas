@@ -1,0 +1,55 @@
+
+npc1137.png
+size: 1128,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: false
+  xy: 962, 74
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 9
+  size: 290, 958
+  orig: 290, 958
+  offset: 0, 0
+  index: -1
+normal/face_nm
+  rotate: true
+  xy: 1056, 136
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: true
+  xy: 1053, 44
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: false
+  xy: 962, 2
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: false
+  xy: 962, 227
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 962, 151
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1

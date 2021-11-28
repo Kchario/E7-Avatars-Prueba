@@ -1,0 +1,13 @@
+
+m9182.png
+size: 668,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 664, 1006
+  orig: 664, 1006
+  offset: 0, 0
+  index: -1

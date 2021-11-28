@@ -1,0 +1,13 @@
+
+npc1072.png
+size: 1016,1304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/base
+  rotate: false
+  xy: 2, 2
+  size: 1012, 1300
+  orig: 1012, 1300
+  offset: 0, 0
+  index: -1

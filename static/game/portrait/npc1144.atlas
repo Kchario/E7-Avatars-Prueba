@@ -1,0 +1,13 @@
+
+npc1144.png
+size: 647,1128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 643, 1124
+  orig: 643, 1124
+  offset: 0, 0
+  index: -1

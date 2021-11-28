@@ -1,0 +1,48 @@
+
+npc1117.png
+size: 1206,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry
+  rotate: false
+  xy: 1103, 104
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 391, 1099
+  orig: 391, 1099
+  offset: 0, 0
+  index: -1
+normal/normal
+  rotate: false
+  xy: 1103, 325
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+panic/panic
+  rotate: false
+  xy: 1103, 249
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+sad/sad
+  rotate: true
+  xy: 1103, 9
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+smile/smile
+  rotate: false
+  xy: 1103, 176
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1

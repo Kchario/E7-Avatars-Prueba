@@ -1,0 +1,55 @@
+
+npc1163.png
+size: 1442,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/face_ag
+  rotate: true
+  xy: 1364, 445
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 686, 1360
+  orig: 686, 1360
+  offset: 0, 0
+  index: -1
+normal/face_nm
+  rotate: true
+  xy: 1364, 367
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+panic/face_pn
+  rotate: true
+  xy: 1364, 523
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+sad/face_sd
+  rotate: false
+  xy: 1364, 215
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+smile/face_sm
+  rotate: true
+  xy: 1364, 289
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+special/face_sp
+  rotate: false
+  xy: 1364, 604
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
